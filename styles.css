@@ -134,6 +134,21 @@ nav {
     background-color: #eeb75a;
 }
 
+.COTISAR {
+    font-style: italic;
+    background-color: #b559a6;
+
+}
+.greeting {
+    color: #fff;
+    background-color: #33b827;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5d6063;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
 /* texto*/
 #seccion-principal .section-principal {
