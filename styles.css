@@ -1,0 +1,173 @@
+
+
+/*ENCABEZADO*/
+
+header {
+    width: 100%;
+    background: rgba(34, 33, 31, 0.55);
+}
+
+header h1 {
+    padding: 20px;
+}
+
+header .h1 a {
+    color: #b559a6;
+    text-decoration: none;
+}
+
+header nav {
+    padding: 30px;
+}
+
+nav ul li a {
+    color: #eeeeee;
+}
+
+/* CENTRO */
+
+main section {
+    width: 100%;
+    padding: 20px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+
+/*
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+*/
+
+
+h1 {
+    margin: 12px;
+    padding: 12px;
+    color: black;
+    font-family: 'arial black';
+    
+}
+
+h3{
+    margin: 12px;
+    padding: 12px;
+}
+h4 {
+    margin: 12px;
+    padding: 12px;
+}
+
+h2 {
+    color: blue; 
+    font-size: 30px;
+    margin: 12px ;
+    border: 2px solid black ;
+    width: 200px;
+    text-align: center;
+    padding: 1px  ;
+    margin-top: 20px;
+    margin-right: 200px; 
+}
+
+p{
+    margin: 12px;
+    padding: 12px;
+
+}
+
+body{
+    background-color: rgb(190, 190, 190);
+    background-color: gold;
+}
+
+header{
+    background-color: goldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 12px;
+    padding: 12px;
+}
+
+main{
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+
+footer {
+    
+        background-color: rgb(236, 40, 210);
+}
+li {
+    margin: 1px;
+    padding: 1px;
+}
+nav {
+    margin: 12px;
+    padding: 12px;
+}
+
+.button {
+    color: #fff;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5d6063;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contacto {
+    font-style: italic;
+    background-color: #eeb75a;
+}
+
+
+/* texto*/
+#seccion-principal .section-principal {
+    padding: 20px;
+    
+
+}
+
+.section-principal .parrafo2 {
+    padding: 20px 20px;
+    color: #fff;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px 20px 20px;
+    text-align:left;
+    border: 2px solid #5d6063;
+    width: 500px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+/* menu*/
+#check {
+    display: none;
+}
+
+.checkbtn {
+    font-size: 25px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40%;
+    cursor: pointer;
+    display: none;
+
+}
